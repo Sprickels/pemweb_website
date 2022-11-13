@@ -5,7 +5,7 @@
     $errors = array();
 
 // Koneksi untuk ke database
-    $host = mysqli_connect('localhost', 'root', '', 'registrasi');
+    $host = mysqli_connect('localhost', 'root', 'Dimas2525!', 'pemwebbioskop');
 
 // Functions
     function registrasi ($data) {
